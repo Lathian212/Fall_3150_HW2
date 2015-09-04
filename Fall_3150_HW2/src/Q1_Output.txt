@@ -1,0 +1,39 @@
+// Run 1
+Please enter an integer from 1 or above for thethe height of a pyramid: -2
+ You entered and integer less then 1.Please enter an integer >= 1.-2.56
+You just entered an illegal value.
+Please enter an integer >= 1 or ctrl-D to exit the program: 1.23333
+You just entered an illegal value.
+Please enter an integer >= 1 or ctrl-D to exit the program: hello!
+You just entered an illegal value.
+Please enter an integer >= 1 or ctrl-D to exit the program: 0
+ You entered and integer less then 1.Please enter an integer >= 1.5
+          1          
+        1 2 1        
+      1 2 3 2 1      
+    1 2 3 4 3 2 1    
+  1 2 3 4 5 4 3 2 1  
+
+// Run 2
+
+Please enter an integer from 1 or above for thethe height of a pyramid: 20
+                                                           1                                                             
+                                                        1  2  1                                                          
+                                                     1  2  3  2  1                                                       
+                                                  1  2  3  4  3  2  1                                                    
+                                               1  2  3  4  5  4  3  2  1                                                 
+                                            1  2  3  4  5  6  5  4  3  2  1                                              
+                                         1  2  3  4  5  6  7  6  5  4  3  2  1                                           
+                                      1  2  3  4  5  6  7  8  7  6  5  4  3  2  1                                        
+                                   1  2  3  4  5  6  7  8  9  8  7  6  5  4  3  2  1                                     
+                                1  2  3  4  5  6  7  8  9  10 9  8  7  6  5  4  3  2  1                                  
+                             1  2  3  4  5  6  7  8  9  10 11 10 9  8  7  6  5  4  3  2  1                               
+                          1  2  3  4  5  6  7  8  9  10 11 12 11 10 9  8  7  6  5  4  3  2  1                            
+                       1  2  3  4  5  6  7  8  9  10 11 12 13 12 11 10 9  8  7  6  5  4  3  2  1                         
+                    1  2  3  4  5  6  7  8  9  10 11 12 13 14 13 12 11 10 9  8  7  6  5  4  3  2  1                      
+                 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 14 13 12 11 10 9  8  7  6  5  4  3  2  1                   
+              1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 15 14 13 12 11 10 9  8  7  6  5  4  3  2  1                
+           1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 16 15 14 13 12 11 10 9  8  7  6  5  4  3  2  1             
+        1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 17 16 15 14 13 12 11 10 9  8  7  6  5  4  3  2  1          
+     1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 18 17 16 15 14 13 12 11 10 9  8  7  6  5  4  3  2  1       
+  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 19 18 17 16 15 14 13 12 11 10 9  8  7  6  5  4  3  2  1   

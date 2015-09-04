@@ -1,0 +1,122 @@
+Please enter the year: 2015.16
+You just entered an illegal value for+ the year or ctrl-z to exit.
+Please enter the year: Hello_World!
+You just entered an illegal value for+ the year or ctrl-z to exit.
+Please enter the year: 2015
+Please enter the day of the week the first day of January falls upon for that year: sdfjksjfl
+You have entered something that is not recognized as a day of the week.
+ Please check your spelling and spell the day of the week completely not using any abbreviations...
+
+Please enter the day of the week the first day of January falls upon for that year: Thursday
+        January 2015
+Mon Tue Wed Thu Fri Sat Sun 
+              1   2   3   4 
+  5   6   7   8   9  10  11 
+ 12  13  14  15  16  17  18 
+ 19  20  21  22  23  24  25 
+ 26  27  28  29  30  31 
+
+
+        February 2015
+Mon Tue Wed Thu Fri Sat Sun 
+                          1 
+  2   3   4   5   6   7   8 
+  9  10  11  12  13  14  15 
+ 16  17  18  19  20  21  22 
+ 23  24  25  26  27  28 
+
+
+        March 2015
+Mon Tue Wed Thu Fri Sat Sun 
+                          1 
+  2   3   4   5   6   7   8 
+  9  10  11  12  13  14  15 
+ 16  17  18  19  20  21  22 
+ 23  24  25  26  27  28  29 
+ 30  31 
+
+
+        April 2015
+Mon Tue Wed Thu Fri Sat Sun 
+          1   2   3   4   5 
+  6   7   8   9  10  11  12 
+ 13  14  15  16  17  18  19 
+ 20  21  22  23  24  25  26 
+ 27  28  29  30 
+
+
+        May 2015
+Mon Tue Wed Thu Fri Sat Sun 
+                  1   2   3 
+  4   5   6   7   8   9  10 
+ 11  12  13  14  15  16  17 
+ 18  19  20  21  22  23  24 
+ 25  26  27  28  29  30  31 
+
+
+
+        June 2015
+Mon Tue Wed Thu Fri Sat Sun 
+  1   2   3   4   5   6   7 
+  8   9  10  11  12  13  14 
+ 15  16  17  18  19  20  21 
+ 22  23  24  25  26  27  28 
+ 29  30 
+
+
+        July 2015
+Mon Tue Wed Thu Fri Sat Sun 
+          1   2   3   4   5 
+  6   7   8   9  10  11  12 
+ 13  14  15  16  17  18  19 
+ 20  21  22  23  24  25  26 
+ 27  28  29  30  31 
+
+
+        August 2015
+Mon Tue Wed Thu Fri Sat Sun 
+                      1   2 
+  3   4   5   6   7   8   9 
+ 10  11  12  13  14  15  16 
+ 17  18  19  20  21  22  23 
+ 24  25  26  27  28  29  30 
+ 31 
+
+
+        September 2015
+Mon Tue Wed Thu Fri Sat Sun 
+      1   2   3   4   5   6 
+  7   8   9  10  11  12  13 
+ 14  15  16  17  18  19  20 
+ 21  22  23  24  25  26  27 
+ 28  29  30 
+
+
+        October 2015
+Mon Tue Wed Thu Fri Sat Sun 
+              1   2   3   4 
+  5   6   7   8   9  10  11 
+ 12  13  14  15  16  17  18 
+ 19  20  21  22  23  24  25 
+ 26  27  28  29  30  31 
+
+
+        November 2015
+Mon Tue Wed Thu Fri Sat Sun 
+                          1 
+  2   3   4   5   6   7   8 
+  9  10  11  12  13  14  15 
+ 16  17  18  19  20  21  22 
+ 23  24  25  26  27  28  29 
+ 30 
+
+
+        December 2015
+Mon Tue Wed Thu Fri Sat Sun 
+      1   2   3   4   5   6 
+  7   8   9  10  11  12  13 
+ 14  15  16  17  18  19  20 
+ 21  22  23  24  25  26  27 
+ 28  29  30  31 
+
+
