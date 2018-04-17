@@ -14,7 +14,7 @@ program shows:
 */
 import java.util.Scanner;
 import java.util.InputMismatchException;
-
+//New Commit
 public class Q1_NumberPyramid {
 	public static void main (String [] args) {
 		Scanner input = new Scanner(System.in);
